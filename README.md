@@ -136,7 +136,7 @@ MIT — free to use, modify, and contribute.
 Pull requests, ideas, and feature requests are welcome!
 
 ```bash
-git clone https://github.com/<yourname>/rich-json-tree
+git clone https://github.com/hritikvalluvar/rich-json-tree
 cd rich-json-tree
 ```
 
